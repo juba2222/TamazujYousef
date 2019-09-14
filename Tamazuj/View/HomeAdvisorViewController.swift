@@ -15,7 +15,6 @@ class HomeAdvisorViewController: UIViewController {
         super.viewDidLoad()
         print("new")
         print("new")
-        print("new")
         // Do any additional setup after loading the view.
         tableView.separatorStyle = .none
     }
